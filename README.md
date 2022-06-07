@@ -2,7 +2,7 @@
 - 🌎 I'm from Osaka, Japan.
 - 🏫 I'm a student of Doshisha University in Kyoto. 
 - 👀 I’m interested in deep learning, data analysis, and so on.
-- 🌱 I’m currently learning Python, JavaScript. 
+- 🌱 I’m currently learning Python, React. 
 
 
 <!---
