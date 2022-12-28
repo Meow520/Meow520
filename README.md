@@ -4,7 +4,7 @@
 - 👀 I’m interested in robotics, deep learning, data analysis, and so on.
 - 🌱 I’m currently learning Python, React. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={Meow520}
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meow520
 )](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
