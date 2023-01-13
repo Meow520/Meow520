@@ -4,10 +4,6 @@
 - 👀 I’m interested in robotics, deep learning, data analysis, and so on.
 - 🌱 I’m currently learning Python, React. 
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meow520&layout=compact&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Meow520&show_icons=true" />
-</p>
 
 <!---
 Meow520/Meow520 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
