@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mao Yamaguchi @Meow520
 - 🌎 I'm from Osaka, Japan.
 - 🏫 I'm a student of Doshisha University in Kyoto. 
-- 👀 I’m interested in robotics, deep learning, data analysis, and so on.
-- 🌱 I’m currently learning Python, React. 
+- 👀 I’m interested in robotics, deep learning, data analysis, web, and so on.
+- 🌱 I’m currently learning Python, React, Next.js, ROS2. 
 
 
 <!---
