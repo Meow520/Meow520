@@ -59,3 +59,5 @@
     <img src="https://skillicons.dev/icons?i=git,css,discord,docker,figma,github,html,js,linux,md,mysql,nextjs,postman,py,react,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
+
+![Snake animation](https://github.com/meow520/meow520/blob/output/github-contribution-grid-snake.svg)
