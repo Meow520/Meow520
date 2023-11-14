@@ -6,9 +6,9 @@
 
 - 🌎 I'm from Osaka, Japan.
 
-- 🏫 I'm a student of Doshisha University in Kyoto. 
+- 🏫 I'm a student at Doshisha University in Kyoto. 
 
-- 👀 I’m interested in robotics, deep learning, data analysis, web, and so on.
+- 👀 I’m interested in robotics, deep learning, data analysis, the web, and so on.
 
 - 🌱 I’m currently learning Python, React, Next.js, ROS2. 
 
@@ -60,4 +60,4 @@
   </a>
 </p>
 
-![Snake animation](https://github.com/meow520/meow520/blob/output/github-contribution-grid-snake.svg)
+ <!--- ![Snake animation](https://github.com/meow520/meow520/blob/output/github-contribution-grid-snake.svg) -->
